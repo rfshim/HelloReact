@@ -1,0 +1,15 @@
+.App {
+  background: black;
+  color: aqua;
+  font-size: 36px;
+  padding: 1rem;
+  font-weight: 600;
+}
+
+.MyNameStyle {
+  background: blue;
+  color: greenyellow;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: 200;
+}
